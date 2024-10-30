@@ -1,9 +1,0 @@
-<template>
-  <input type="submit">
-</template>
-
-<script>
-  export default {
-    name: "submitText"
-  };
-</script>
